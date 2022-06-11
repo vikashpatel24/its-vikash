@@ -23,7 +23,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00A114&lines=Hi%2C+This+is+Red+Eagle....)](https://git.io/typing-svg)
 
-![](https://github.com/its-cybersecurity/its-cybersecurity/blob/main/red%20eagle%20logo.gif)
+![](https://github.com/its-red-eagle/its-red-eagle/blob/main/Eagle.gif)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
