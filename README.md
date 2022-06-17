@@ -31,7 +31,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 [![Vikash's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyber_security&theme=dark)](https://github.com/cyber_security/leetcode-stats)          
           
-
+![](https://github.com/its-red-eagle/its-red-eagle/blob/main/its_red_eagle.svg)
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-red-eagle&outrun&show_icons=true)
 
 
