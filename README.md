@@ -61,6 +61,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 [![Red Eagle's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-red-eagle&theme=blue-green)](https://github.com/its-red-eagle/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-red-eagle&theme=github-green-purple)](https://git.io/streak-stats)
 <!--
 
 
