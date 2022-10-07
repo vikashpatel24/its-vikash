@@ -35,7 +35,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-red-eagle&outrun&show_icons=true)
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=its-cybersecurity.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=its-red-eagle.visitor-badge&left_text=My%20Page%20Visitors)
 
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
@@ -43,11 +43,11 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
-[![GitHub forks](https://img.shields.io/github/forks/its-cybersecurity/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/its-red-eagle/StrapDown.js/network/)
+[![GitHub forks](https://img.shields.io/github/forks/its-red-eagle/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/its-red-eagle/StrapDown.js/network/)
 
-[![GitHub stars](https://img.shields.io/github/stars/its-cybersecurity/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/its-red-eagle/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/its-red-eagle/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/its-red-eagle/StrapDown.js/stargazers/)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/its-cybersecurity/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/its-red-eagle/StrapDown.js/watchers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/its-red-eagle/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/its-red-eagle/StrapDown.js/watchers/)
 
 ![Profile views](https://gpvc.arturio.dev/its-red-eagle)
 
@@ -76,7 +76,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=its-red-eagle&theme=blue-green)](https://github.com/its-red-eagle/github-readme-streak-stats)
 
-[![Sparkline](https://stars.medv.io/its-red-eagle/badges.svg)](https://stars.medv.io/its-cybersecurity/badges)
+[![Sparkline](https://stars.medv.io/its-red-eagle/badges.svg)](https://stars.medv.io/its-red-eagle/badges)
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
