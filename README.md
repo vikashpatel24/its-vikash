@@ -17,7 +17,9 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 -->
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-red-eagle&label=Profile%20views&color=0e75b6&style=flat" alt="its-red-eagle" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-red-eagle" alt="its-red-eagle" /></a> </p>
 
 https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a70f78
 
