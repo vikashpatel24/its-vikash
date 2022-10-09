@@ -27,7 +27,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-red-eagle&show_icons=true&locale=en" alt="its-red-eagle" /></p>
 
 [![Vikash's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyber_security&theme=dark)](https://github.com/cyber_security/leetcode-stats)          
           
