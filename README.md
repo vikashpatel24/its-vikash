@@ -32,7 +32,8 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 [![Vikash's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyber_security&theme=dark)](https://github.com/cyber_security/leetcode-stats)          
           
  <a href="https://linktr.ee/its_red_eagle"><img src="https://github.com/its-red-eagle/its-red-eagle/blob/main/its_red_eagle.svg" width="20%" height="20%"></a>
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-red-eagle&outrun&show_icons=true)
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-red-eagle&show_icons=true&locale=en&layout=compact" alt="its-red-eagle" /></p>
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=its-red-eagle.visitor-badge&left_text=My%20Page%20Visitors)
