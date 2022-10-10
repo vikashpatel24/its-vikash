@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a70f78
 -->
+![Its Red Eagle github stats](https://github-readme-stats.vercel.app/api?username=its-red-eagle&show_icons=true&hide_border=true&hide=["stars"])
 
+
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-red-eagle&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" /></p></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-red-eagle&label=Profile%20views&color=0e75b6&style=flat" alt="its-red-eagle" /> </p>
 
