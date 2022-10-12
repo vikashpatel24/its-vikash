@@ -196,3 +196,8 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-red-eagle&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jerik-george" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-red-eagle&show_icons=true&locale=en&theme=tokyonight" alt="its-red-eagle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-red-eagle&&theme=tokyonight" alt="its-red-eagle" /></p>
