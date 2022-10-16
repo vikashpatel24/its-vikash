@@ -27,10 +27,11 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 [![@its_red_eagle's Holopin board](https://holopin.me/its_red_eagle)](https://holopin.io/@its_red_eagle)
 
+<span>
+
 [![Vikash's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyber_security&theme=dark)](https://github.com/cyber_security/leetcode-stats)          
           
- <a href="https://linktr.ee/its_red_eagle"><img src="https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/its_red_eagle.svg" width="20%" height="20%"></a>
- 
+ <a  href="https://linktr.ee/its_red_eagle"><img src="https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/its_red_eagle.svg" width="20%" height="20%"></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-red-eagle&show_icons=true&locale=en&layout=compact" alt="its-red-eagle" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/its-red-eagle)
@@ -38,7 +39,6 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 [![Red Eagle's github trophy](https://github-profile-trophy.vercel.app/?username=its-red-eagle&row=1)](https://github.com/its-red-eagle/github-profile-trophy)
 
 [![Red Eagle's github stats](https://github-readme-stats.vercel.app/api?username=its-red-eagle&theme=blue-green)]
-[![Red Eagle's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-red-eagle&theme=blue-green)](https://github.com/its-red-eagle/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=its-red-eagle&theme=github-green-purple)]
 
