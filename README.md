@@ -25,6 +25,8 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+[![@its_red_eagle's Holopin board](https://holopin.me/its_red_eagle)](https://holopin.io/@its_red_eagle)
+
 [![Vikash's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=cyber_security&theme=dark)](https://github.com/cyber_security/leetcode-stats)          
           
  <a href="https://linktr.ee/its_red_eagle"><img src="https://github.com/its-red-eagle/its-red-eagle/blob/main/assets/its_red_eagle.svg" width="20%" height="20%"></a>
