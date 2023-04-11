@@ -30,8 +30,6 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
  <a  href="https://linktr.ee/its_red_eagle"><img src="https://github.com/its-vikash/its-vikash/blob/main/assets/its_red_eagle.svg" width="20%" height="20%"></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-vikash&show_icons=true&locale=en&layout=compact" alt="its-vikash" /></p>
 
-![Profile views](https://gpvc.arturio.dev/its-vikash)
-
 [![Red Eagle's github trophy](https://github-profile-trophy.vercel.app/?username=its-vikash&row=1)](https://github.com/its-vikash/github-profile-trophy)
 
 [![Red Eagle's github stats](https://github-readme-stats.vercel.app/api?username=its-vikash&theme=blue-green)]
