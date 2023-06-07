@@ -76,14 +76,14 @@ its-vikash@github.com
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-vikash&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>
+<!-- <details>
 	<summary><b>📈 GitHub Graph</b></summary>
 	<img src="https://activity-graph.herokuapp.com/graph?username=its-vikash&theme=minimal" />
 	<p align="center" >
   <!-- Profile Views Stats -->
   <img align="center" src="https://komarev.com/ghpvc/?username=its-vikash" alt="its-vikash" />
 </p>
-</details>
+</details> -->
 
 <!--<details closed>
 <summary>💀 <b>Cool GIFs (Don't click the `matrix`)</b></summary>
