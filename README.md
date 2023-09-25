@@ -56,9 +56,9 @@ its-vikash@github.com
 <b>Education  :</b>  <a href="http://www.mjpru.ac.in/">MJPRU</a> B.Tech. <b>(Computer Science & Information Technology) (2020-2024)</b>
 <table>
     <tr colspan="2">
-        <td>
+        
                   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-vikash&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
-        </td>
+        
     </tr>
 </table>
 --------------------------------------------------------------------------------
