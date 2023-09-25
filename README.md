@@ -54,6 +54,13 @@ its-vikash@github.com
 <b>Frameworks :</b>  
 <b>Interests  :</b>  
 <b>Education  :</b>  <a href="http://www.mjpru.ac.in/">MJPRU</a> B.Tech. <b>(Computer Science & Information Technology) (2020-2024)</b>
+<table>
+    <tr colspan="2">
+        <td>
+                  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-vikash&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+        </td>
+    </tr>
+</table>
 --------------------------------------------------------------------------------
 <!--<b>Featured Projects 🚀</b>
 <a href="https://youtemy.tech/">YouTemy<a>  <a href="https://music-expanse.herokuapp.com/">Music Expanse<a>
