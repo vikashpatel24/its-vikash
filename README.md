@@ -21,7 +21,7 @@ https://www.codingninjas.com/codestudio/profile/fc2555a1-1b59-47ab-9f37-2f32c5a7
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-[![@its_red_eagle's Holopin board](https://holopin.me/its_red_eagle)](https://holopin.io/@its_red_eagle)
+[![An image of @vikashpatel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikashpatel)](https://holopin.io/@vikashpatel)
 
 <span>
 
